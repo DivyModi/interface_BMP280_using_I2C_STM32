@@ -1,0 +1,5 @@
+../driver/Scr/bmp280.c:19:9:I2C_Read_Register	32	static
+../driver/Scr/bmp280.c:33:6:I2C_Write_Register	32	static
+../driver/Scr/bmp280.c:43:6:BMP280_get_calib_values	48	static
+../driver/Scr/bmp280.c:64:6:BMP280_init	16	static
+../driver/Scr/bmp280.c:72:6:BMP280_calc_values	88	static
